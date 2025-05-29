@@ -36,9 +36,13 @@ Los estudiantes de la Tecnicatura de Biotecnología frecuentemente enfrentan des
   
  
 
+- **Fernandez Daiana Belén**  
+  Habilidades: Organización, trabajo en equipo. Interés en colaborar en procesos de planificación y documentación.
+
+
+
 - **[Otros miembros]**  
   Habilidades: [Agregar habilidades de cada uno]
-
 ---
 
 ## Estructura Inicial del Proyecto

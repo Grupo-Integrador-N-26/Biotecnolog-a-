@@ -47,3 +47,5 @@ Los estudiantes de la Tecnicatura de Biotecnología frecuentemente enfrentan des
 
 ## Estructura Inicial del Proyecto
 
+
+

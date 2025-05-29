@@ -10,6 +10,15 @@ Los estudiantes de la Tecnicatura de Biotecnología frecuentemente enfrentan des
 
 ---
 
+### Metodología de trabajo
+
+- Se establecerán **sprints semanales** para el desarrollo de soluciones.
+- Utilizaremos **GitHub Projects** o **Trello** para organizar tareas.
+- Cada miembro asumirá un **rol específico** según sus habilidades.
+- Se promoverá la mejora continua y el aprendizaje compartido.
+
+---
+
 ## Posibles Funcionalidades o Áreas de Enfoque Inicial
 
 - Recepción y documentación de problemas enviados por estudiantes.
@@ -19,7 +28,7 @@ Los estudiantes de la Tecnicatura de Biotecnología frecuentemente enfrentan des
 - Organización y versionado de documentación relevante.
 - Creación de formularios para recolección de problemáticas.
 
-**Posibles usuarios:** estudiantes de biotecnología, docentes, equipos de laboratorio o cátedras.
+**Usuarios:** estudiantes de biotecnología, docentes, equipos de laboratorio o cátedras.
 
 ---
 
@@ -42,4 +51,19 @@ Los estudiantes de la Tecnicatura de Biotecnología frecuentemente enfrentan des
 ---
 
 ## Estructura Inicial del Proyecto
+
+---
+
+## Estado actual
+
+- Repositorio creado y configurado en GitHub.
+- Rama `conrado-sprint0` activa.
+- README inicial redactado.
+- En espera de primeras problemáticas reales por parte de estudiantes de Biotecnología.
+
+---
+
+## Notas finales
+
+Este proyecto se irá adaptando a medida que surjan nuevos casos o necesidades. Se priorizará siempre el aprendizaje colectivo, la organización del trabajo en equipo y la colaboración interdisciplinaria.
 

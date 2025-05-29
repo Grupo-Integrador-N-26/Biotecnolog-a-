@@ -30,6 +30,10 @@ Los estudiantes de la Tecnicatura de Biotecnología frecuentemente enfrentan des
 
 - **[Nombre compañera que creó el repo]**  
   Habilidades: [Agregar habilidades o intereses]
+ - **Osorio Duarte Cintia**  
+  Habilidades:Desarrollo web, Design ux/ui, testing, Videojuegos. 
+  
+ 
 
 - **[Otros miembros]**  
   Habilidades: [Agregar habilidades de cada uno]

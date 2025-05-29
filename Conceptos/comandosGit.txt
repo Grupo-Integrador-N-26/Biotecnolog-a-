@@ -1,0 +1,53 @@
+# Configuración inicial
+git config --global user.name "Tu Nombre"
+
+# Inicializar repositorio
+git init
+
+# Clonar un repositorio
+git clone https://github.com/Grupo-Integrador-N-26/Biotecnolog-a-.git
+
+# Ver ramas
+git branch
+
+# Crear una rama
+git branch nombre-rama
+
+# Cambiar de rama
+git checkout nombre-rama
+
+# Crear y cambiar de rama en un paso
+git checkout -b nombre-rama
+
+# Ver estado de archivos
+git status
+
+# Agregar archivo al staging
+git add nombre-archivo
+
+# Agregar todos los archivos
+git add .
+
+# Commit con mensaje
+git commit -m "Mensaje del commit"
+
+# Enviar cambios al repo
+git push origin nombre-rama
+
+# Traer cambios del repo
+git pull origin nombre-rama
+
+# Cambiar a rama develop (por ejemplo)
+git checkout develop
+
+# Fusionar una rama a la actual
+git merge nombre-rama
+
+# Eliminar rama local
+git branch -d nombre-rama
+
+# Eliminar rama remota
+git push origin --delete nombre-rama
+
+# Ver historial de commits de forma visual
+git log --oneline --graph --all

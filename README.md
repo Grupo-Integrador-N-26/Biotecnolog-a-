@@ -28,8 +28,9 @@ Los estudiantes de la Tecnicatura de Biotecnología frecuentemente enfrentan des
 - **Alvarez Conrado**  
   Habilidades: Organización de proyectos, conocimientos en higiene y seguridad, Energía renovable y en proceso de formación en desarrollo web.
 
-- **[Nombre compañera que creó el repo]**  
-  Habilidades: [Agregar habilidades o intereses]
+-**Osorio Duarte Cintia**  
+  Habilidades:Desarrollo web, Diseño ux/ui, Testing manual , Desarrollo de Videojuegos.Intereses mundo It en general, arte. 
+  
 
 - **[Otros miembros]**  
   Habilidades: [Agregar habilidades de cada uno]

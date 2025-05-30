@@ -32,7 +32,7 @@ Los estudiantes de la Tecnicatura de Biotecnología frecuentemente enfrentan des
   Habilidades: Testing de Videojuegos, desarrollo web, programador junior, economia y gestion de empresas, electricista nivel III.
  
  - **Osorio Duarte Cintia**  
-  Habilidades:Desarrollo web, Design ux/ui, testing, Videojuegos. 
+  Habilidades:Desarrollo web, Diseño ux/ui, Testing manual , Desarrollo de Videojuegos.Intereses mundo It en general, arte. 
   
  
 

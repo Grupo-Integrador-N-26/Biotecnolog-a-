@@ -41,11 +41,8 @@ Los estudiantes de la Tecnicatura de Biotecnología frecuentemente enfrentan des
 
 
 
-- **[Otros miembros]**  
-  Habilidades: [Agregar habilidades de cada uno]
+
 ---
 
 ## Estructura Inicial del Proyecto
-
-
 

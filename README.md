@@ -31,17 +31,14 @@ Los estudiantes de la Tecnicatura de Biotecnología frecuentemente enfrentan des
 - **Ardiles Mayco David**  
   Habilidades: Testing de Videojuegos, desarrollo web, programador junior, economia y gestion de empresas, electricista nivel III.
  
- - **Osorio Duarte Cintia**  
-  Habilidades:Desarrollo web, Design ux/ui, testing, Videojuegos. 
-  
- 
+ - -**Osorio Duarte Cintia**  
+  Habilidades:Desarrollo web, Diseño ux/ui, Testing manual , Desarrollo de Videojuegos.Intereses mundo It en general, arte. 
 
 - **Fernandez Daiana Belén**  
   Habilidades: Organización, trabajo en equipo. Interés en colaborar en procesos de planificación y documentación.
 
 
--**Osorio Duarte Cintia**  
-  Habilidades:Desarrollo web, Diseño ux/ui, Testing manual , Desarrollo de Videojuegos.Intereses mundo It en general, arte. 
+
   
 
 

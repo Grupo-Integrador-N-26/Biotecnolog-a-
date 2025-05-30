@@ -40,6 +40,9 @@ Los estudiantes de la Tecnicatura de Biotecnología frecuentemente enfrentan des
   Habilidades: Organización, trabajo en equipo. Interés en colaborar en procesos de planificación y documentación.
 
 
+-**Osorio Duarte Cintia**  
+  Habilidades:Desarrollo web, Diseño ux/ui, Testing manual , Desarrollo de Videojuegos.Intereses mundo It en general, arte. 
+  
 
 
 ---
